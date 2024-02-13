@@ -1,2 +1,16 @@
-site_name: My Docs
-theme: readthedocs
+site_name: Github Pages -  LMSGI
+extra_css: [css/extra.css]
+theme:
+ name: readthedocs
+ features:
+    - navigation.footer
+copyright: <p xmlns:cc="http://creativecommons.org/ns#" >Este contenido (salvo excepciones) esta bajo la licencia <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+nav:
+  - Inicio: index.md
+  - Github: gpages.md
+  - Caso Práctico (Web personal): web.md
+  - Repositorio personal: repo.md
+  - Activar Github Pages: activate.md
+  - Páginas de proyectos: projects.md
+  - Otras alternativas: alternatives.md
+  - Referencias: references.md
