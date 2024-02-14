@@ -1,6 +1,6 @@
 # Introducción a Github Pages
 
-La presente web, es un recurso educativo abierto (REA) que será presentado dentro del módulo de Lenguaje de Marcas y Sistemas de Gestión de Información que permite a los alumnos poder publicar un documento HTML. La presente práctica es presentada por el [IES Aguadulce](https://www.iesaguadulce.es/).
+La presente web, es un recurso educativo abierto (REA) que será presentado dentro del módulo de Lenguaje de Marcas y Sistemas de Gestión de Información para los Alumnos de CFGS (DAW,DAM y ASIR) de la familia de Informática y Comunicaciones que permite a los alumnos poder publicar un documento HTML. La presente práctica es presentada por el [IES Aguadulce](https://www.iesaguadulce.es/).
 
 En esta práctica, vamos a centrarnos en como poder publicar nuestras webs realizadas en el lenguaje de Marcas HTML, a un servicio gratuito alojado por Github.
 
@@ -14,6 +14,7 @@ Para realizar esta práctica, necesitarás los siguientes materiales:
 * Cuenta en el servicio [Github](https://github.com).
 * Editor de código; Por ejemplo: [Visual Studio Code](https://code.microsoft.com).
 * Herramienta Git (opcional).
+* Procesador de textos (para la actividad final propuesta).
 
 ## Qué aprenderemos en esta práctica
 
@@ -22,6 +23,14 @@ El objetivo de esta práctica, es poder afianzar los conceptos que hemos aprendi
 Además, vamos a aprender como publicar estos documentos HTML ya creados de tal forma que puedan estar disponibles en línea. Gracias a servicios como Github Pages, podemos publicar nuestros documentos y que esten disponibles para todo el mundo de forma gratuita.
 
 Otro aspecto a tener en cuenta es que esta herramienta se incluye dentro de la web de Github; que es una de las más utilizada en el sector y es usada por millones de profesionales y usuarios.
+
+## Criterios de Evaluación para Esta práctica
+
+Los siguientes criterios de Evaluación serán utilizados para evaluar esta práctica:
+
+* **2.b)** Se ha analizado la estructura de un documento HTML e identificado las secciones que lo componen.
+* **2.c)** Se ha reconocido la funcionalidad de las principales etiquetas y atributos del lenguaje HTML.
+* **2.f)** Se han utilizado herramientas en la creación de documentos web.
 
 ## Licencia
 

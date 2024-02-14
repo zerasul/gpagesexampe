@@ -11,7 +11,7 @@ Dependiendo de cada caso, podemos publicar un tipo u otro.
 
 ## Web Personal
 
-Comenzaremos con publicar la web personal; en este caso github permite crear una web por usuario o por organización. En Github, una organización puede ser una empresa o fundación tanto pública (Open Source); como privada.
+Comenzaremos con publicar la web personal; en este caso github permite crear una web por usuario u por organización. En Github, una organización puede ser una empresa o fundación tanto pública (Open Source); como privada.
 
 Estas web, estarán bajo el dominio (salvo que se use un dominio personalizado) ```nombreusuario.github.io```; estos dominios son gratuitos.
 
@@ -60,6 +60,8 @@ git commit -m "subiendo HTML"
 git push origin main
 ```
 
+Al realizar la operación Push, nos pedirá usuario y contraseña de nuestra cuenta de github.
+
 **NOTA**: Puede que de un error a la hora de tratar de realizar el comando ```commit```; esto es por que se requiere configurar el usuario y mail con los siguientes comandos:
 
 ```bash
@@ -69,7 +71,7 @@ git config --global user.email "email@email.com"
 
 Una vez hemos realizado este apartado, ya solo nos queda activar github pages.
 
-Si necsitas más información acerca de Git y GIthub, dejamos un vídeo con un tutorial completo:
+Si necesitas más información acerca de Git y GIthub, dejamos un vídeo con un tutorial completo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1CpO1F78V4?si=k8Ao-_Vr_5PaeRg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>

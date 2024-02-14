@@ -39,18 +39,18 @@ Comenzaremos creando el esquema inicial de un documento HTML:
 </html>
 ```
 
-Este será por donde comenzaremos a realizar nuestra web. Vamos a crear nuestra web personal utilizando tanto las etiquetas básicas de HTML, como las etiquetas semánticas propias de HTMl5.
+Este será por donde comenzaremos a realizar nuestra web. Vamos a crear nuestra web personal utilizando tanto las etiquetas básicas de HTML, como las etiquetas semánticas propias de HTML5.
 
 Nuestra web debe tener los siguientes apartados:
 
 * Una cabecera con nuestro nombre.
-* un menú con los siguientes apartados:
+* Un menú con los siguientes apartados:
     * _Inicio_: Que apuntará al inicio.
     * _Intereses_: Que apuntará al apartado de intereses.
     * _Portfolio_: Que apuntará al apartado de portfolio.
 * Un apartado principal con 3 secciones:
-    * _Inicio_: que contendrá una foto nuestra y una descripción.
-    * _Intereses_: que contendrá una lista desordenada con nuestros intereses.
+    * _Inicio_: Que contendrá una foto nuestra y una descripción.
+    * _Intereses_: Que contendrá una lista desordenada con nuestros intereses.
     * _Portfolio_: Que contendrá enlaces de interes o algunos proyectos que puedan interesarnos en caso de que no tengamos ninguno.
 * Un footer con un disclaimer incluyendo el copyrigth y año.
 
